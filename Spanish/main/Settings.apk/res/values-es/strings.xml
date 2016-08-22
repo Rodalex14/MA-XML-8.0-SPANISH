@@ -4,7 +4,7 @@
   <string name="aaid_info">"
 El identificador de publicidad es único y permanente para su dispositivo. Los vendedores lo usan con motivo de ofrecerle publicidad más útil."</string>
   <string name="about_settings">Acerca del dispositivo</string>
-  <string name="about_settings_summary">Ver información legal, estado, versión de software del tablet</string>
+  <string name="about_settings_summary">Ver información legal, estado, versión de software del dispositivo</string>
   <string name="ac_enable_summary">Se requerirá una contraseña para abrir la aplicación</string>
   <string name="ac_enable_title">Bloqueo de Aplicaciones</string>
   <string name="ac_privacy_mode_sum">Pedir contraseña para desactivar el modo invitado</string>
@@ -18,9 +18,9 @@ El identificador de publicidad es único y permanente para su dispositivo. Los v
   <string name="access_control_need_password">"%s ha sido protegida
 "</string>
   <string name="access_control_need_to_unlock">Contraseña requerida:</string>
-  <string name="access_control_no_back_footer">Pulse [icon] para salir</string>
+  <string name="access_control_no_back_footer">Pulsa [icon] para salir</string>
   <string name="access_control_password_title">Contraseña</string>
-  <string name="access_control_recording_intro_header">Dibuje un patrón de desbloqueo</string>
+  <string name="access_control_recording_intro_header">Dibuja un patrón de desbloqueo</string>
   <string name="access_control_reset_by_account">Accede a tu cuenta Mi para resetear la contraseña</string>
   <string name="access_point_names">Nombres de puntos de acceso</string>
   <string name="accessibility_captioning_title">Subtítulos</string>
@@ -95,18 +95,18 @@ Nota: Puedes tocar tres veces la pantalla para ampliar el contenido en cualquier
   <string name="add_auto_startup_application">Añadir aplicaciones con inicio automático</string>
   <string name="add_device_admin">Activar</string>
   <string name="add_device_admin_msg">¿Deseas activar el administrador del dispositivo?</string>
-  <string name="add_fingerprint_done_msg">Ahora podrá desbloquear el dispositivo con su huella.</string>
-  <string name="add_fingerprint_done_title">¿Listo para disfrutar?</string>
+  <string name="add_fingerprint_done_msg">Ahora puedes desbloquear el dispositivo con tu huella.</string>
+  <string name="add_fingerprint_done_title">Todo listo.</string>
   <string name="add_fingerprint_failed_retry_text">No se pudo añadir huella dactilar, inténtalo de nuevo</string>
   <string name="add_fingerprint_finished_button_text">Aceptar</string>
   <string name="add_fingerprint_instruction_msg">Desbloquear el dispositivo o verificar el pago con su huella.</string>
-  <string name="add_fingerprint_instruction_title">Añada su huella</string>
-  <string name="add_fingerprint_put_finger_edge_msg">Mueva el dedo ligeramente y colóquelo de nuevo en el censor para añadir las diferentes partes de su huella dactilar.</string>
-  <string name="add_fingerprint_put_finger_msg">Coloque el dedo en el sensor y levántelo cuando sienta una vibración.</string>
+  <string name="add_fingerprint_instruction_title">Añade tu huella</string>
+  <string name="add_fingerprint_put_finger_edge_msg">Mueve el dedo ligeramente y colócalo de nuevo en el sensor para añadir las diferentes partes de tu huella dactilar.</string>
+  <string name="add_fingerprint_put_finger_msg">Coloca el dedo en el sensor y levántalo cuando sientas una vibración.</string>
   <string name="add_fingerprint_put_finger_title">Añadir huella dactilar</string>
-  <string name="add_fingerprint_similar_fingerprint_input_error_msg">Mueva el dedo ligeramente y colóquelo de nuevo en el censor para añadir las diferentes partes de su huella dactilar.</string>
+  <string name="add_fingerprint_similar_fingerprint_input_error_msg">Mueve el dedo ligeramente y colócalo de nuevo en el sensor para añadir las diferentes partes de tu huella dactilar.</string>
   <string name="add_fingerprint_text">Añadir huella dactilar</string>
-  <string name="add_fingerprint_toast_text">Coloque su dedo en el sensor</string>
+  <string name="add_fingerprint_toast_text">Coloca tu dedo en el sensor</string>
   <string name="adding_profile_owner_warning">"Al continuar, el usuario será administrado por el administrador, que también podría almacenar datos asociados, además de los datos personales.
 
 El administrador puede supervisar y administrar la configuración, el acceso, las aplicaciones y los datos asociados con este usuario, incluida la información acerca de la actividad de la red y la ubicación del dispositivo."</string>
@@ -123,7 +123,7 @@ El administrador puede supervisar y administrar la configuración, el acceso, la
   <string name="agps_roaming_dia_title">Usa A-GPS al estar en roaming</string>
   <string name="agps_roaming_summary">Usa los datos móviles para ayudar GPS al estar en roaming</string>
   <string name="airplane_mode">Modo avión</string>
-  <string name="alarm_sound_dialog_title">Choose alarm sound</string>
+  <string name="alarm_sound_dialog_title">Escoger sonido de alarma</string>
   <string name="alarm_sound_title">Sonido de alarma</string>
   <string name="alarm_volume_option_title">Volumen de alarma</string>
   <string name="alarm_volume_title">Alarma</string>
@@ -142,13 +142,13 @@ El administrador puede supervisar y administrar la configuración, el acceso, la
   <string name="always_running">Siempre se ejecutará (%s)</string>
   <string name="amber_alerts_summary">Recibir boletines sobre secuestros de menores</string>
   <string name="amber_alerts_title">Alertas AMBER</string>
-  <string name="android_beam_disabled_summary">Para usar esta función, active el NFC</string>
+  <string name="android_beam_disabled_summary">Para usar esta función, activa el NFC</string>
   <string name="android_beam_explained">Puede compartir a otro dispositivo una página web, video u otro contenido en pantalla, juntando los dispositivos (normalmente, por la parte trasera).</string>
   <string name="android_beam_label">Android Beam</string>
   <string name="android_beam_off_summary">Compartir contenido NFC desactivado</string>
   <string name="android_beam_on_summary">Compartir contenido NFC activado</string>
   <string name="android_beam_settings_title">Android Beam</string>
-  <string name="android_beam_tips">Asegurese de que los dos dispositivos están tocándose, y entonces toque el contenido que quiere transmitir.</string>
+  <string name="android_beam_tips">Asegúrate de que los dos dispositivos están tocándose, y después toca el contenido que quieres transmitir.</string>
   <string name="android_beam_witch_label">Android Beam</string>
   <string name="animator_duration_scale_title">Escala de duración de animador</string>
   <string name="anti_spam">Lista de bloqueo</string>
@@ -231,7 +231,7 @@ El administrador puede supervisar y administrar la configuración, el acceso, la
   <string name="app_ops_never_used">(Sin utilizar)</string>
   <string name="app_ops_running">En curso</string>
   <string name="app_ops_settings">Operaciones de las aplicaciones</string>
-  <string name="app_ops_settings_summary">View or change app permissions</string>
+  <string name="app_ops_settings_summary">Ver o cambiar los permisos de las aplicaciones</string>
   <string name="app_process_limit_title">Límite de procesos en segundo plano</string>
   <string name="app_restrictions_custom_label">Definir restricciones de aplicación</string>
   <string name="app_sees_restricted_accounts">Esta aplicación puede acceder a tus cuentas.</string>
@@ -2089,11 +2089,11 @@ Seleccione su sistema operativo:"</string>
   <string name="nfc_payment_favor_foreground">Favorecer aplicación en primer plano</string>
   <string name="nfc_payment_learn_more">Más información</string>
   <string name="nfc_payment_menu_item_add_service">Buscar aplicaciones</string>
-  <string name="nfc_payment_no_apps">Envía tu pago con solo presionar.</string>
-  <string name="nfc_payment_set_default">¿Quieres usar %1$s siempre al presionar y pagar?</string>
-  <string name="nfc_payment_set_default_instead_of">¿Quieres usar siempre %1$s en lugar de %2$s al presionar y pagar?</string>
-  <string name="nfc_payment_set_default_label">¿Establecer como preferencia?</string>
-  <string name="nfc_payment_settings_title">Presionar y pagar</string>
+  <string name="nfc_payment_no_apps">Envía tu pago con solo tocar.</string>
+  <string name="nfc_payment_set_default">¿Quieres usar %1$s siempre al tocar y pagar?</string>
+  <string name="nfc_payment_set_default_instead_of">¿Quieres usar siempre %1$s en lugar de %2$s al tocar y pagar?</string>
+  <string name="nfc_payment_set_default_label">¿Establecer como predeterminado?</string>
+  <string name="nfc_payment_settings_title">Tocar y pagar</string>
   <string name="nfc_quick_toggle_summary">Permitir el intercambio de datos cuando el dispositivo toque otro dispositivo</string>
   <string name="nfc_quick_toggle_title">NFC</string>
   <string name="nfc_se_route_title">Posición del elemento seguro</string>
@@ -2524,7 +2524,7 @@ Seleccione su sistema operativo:"</string>
   <string name="print_print_job">Trabajo de impresión</string>
   <string name="print_print_jobs">Trabajos de impresión</string>
   <string name="print_printing_state_title_template">Imprimiendo %1$s</string>
-  <string name="print_remind">Primero active el servicio de impresión</string>
+  <string name="print_remind">Primero activa el servicio de impresión</string>
   <string name="print_restart">Reiniciar</string>
   <string name="print_search_box_hidden_utterance">Cuadro de búsqueda oculto</string>
   <string name="print_search_box_shown_utterance">Cuadro de búsqueda visible</string>
@@ -3583,7 +3583,7 @@ Con este software de Google, puedes sincronizar tus datos y acceder a tus contac
   <string name="unlock_set_unlock_password_title">Contraseña</string>
   <string name="unlock_set_unlock_pattern_summary">Dibuja un patrón simple con el dedo para desbloquear el dispositivo</string>
   <string name="unlock_set_unlock_pattern_title">Patrón</string>
-  <string name="unlock_set_unlock_pin_summary">Introduzca cuatro dígitos para desbloquear el dispositivo</string>
+  <string name="unlock_set_unlock_pin_summary">Introduce cuatro dígitos para desbloquear el dispositivo</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Establecer pantalla de bloqueo</string>
   <string name="unmount_inform_text">El almacenamiento USB se desmontará.</string>
